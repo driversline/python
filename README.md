@@ -1,0 +1,1 @@
+- To use `check-availible-web`, run the command: `pip install Requests`.
