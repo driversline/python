@@ -1,1 +1,1 @@
-- To use `check-availible-web`, run the command: `pip install Requests`.
+`check-availible-web` dependencies: `pip install Requests`
