@@ -1,1 +1,1 @@
-`check-availible-web` dependencies: `pip install Requests`
+`availible-web.py` dependencies: `pip install Requests`
