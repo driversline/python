@@ -16,10 +16,10 @@ def generate_password(length, use_uppercase, use_lowercase, use_digits, use_spec
 
 if __name__ == "__main__":
     length = int(input("Enter password length: "))
-    use_uppercase = input("Use uppercase letters? (y/n): ") == 'y'
-    use_lowercase = input("Use lowercase letters? (y/n): ") == 'y'
-    use_digits = input("Use digits? (y/n): ") == 'y'
-    use_special = input("Use special characters? (y/n): ") == 'y'
+    use_uppercase = input("Use uppercase letters? (y/n): ").strip().lower() == 'y'
+    use_lowercase = input("Use lowercase letters? (y/n): ").strip().lower() == 'y'
+    use_digits = input("Use digits? (y/n): ").strip().lower() == 'y'
+    use_special = input("Use special characters? (y/n): ").strip().lower() == 'y'
 
     while True:
         try:
