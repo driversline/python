@@ -31,7 +31,7 @@ def check_domain_availability(domain, max_retries=1):
     return domain, False
 
 def main():
-    base_domain = "example" #change
+    base_domain = ""
     tlds = [
         ".com", ".net", ".org", ".info", ".biz", ".co", ".me", ".io", ".ai",
         ".ru", ".us", ".de", ".jp", ".uk", ".fr", ".au", ".ca", ".it", ".es",
