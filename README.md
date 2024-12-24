@@ -1,9 +1,9 @@
-**`available-web.py`**
+**`online / access.py`**
 - Dependencies: `Requests`
 - Installation: `pip install requests`
 
-**`animate.py`**
+**`animation / cube.py`**
 - Dependencies: None
 
-**`generate.py`**
+**`password / create.py`**
 - Dependencies: None
