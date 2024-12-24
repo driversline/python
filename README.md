@@ -1,9 +1,9 @@
-**`online / access.py`**
+>> **`online / access.py`**
 >> Dependencies: `Requests`
 >> Installation: `pip install requests`
 
-**`animation / cube.py`**
+>> **`animation / cube.py`**
 >> Dependencies: none
 
-**`password / create.py`**
+>> **`password / create.py`**
 >> Dependencies: none
